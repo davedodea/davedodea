@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =====================================================================
+
 Click below if you fancy a free $100 on cloud provider, DigitalOcean!
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5ff60a2d6040&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
