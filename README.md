@@ -9,7 +9,7 @@
 
 ⚡ Being fortunate enough to work with a great company [Webtext](https://webtext.com) as well some amazing colleagues allows me to constantly challenge and improve myself. One of the ways I like to give back for this opportunity is by sharing my knowledge with others.
 
-💬 Hopefully, by reading some of my posts on this site, I can help you along in your journey, too.
+💬 Hopefully, by reading some of my posts on my site, I can help you along in your journey, too.
 
 📫 I'm always happy to hear from people all over the world, so please do drop me a message here and [say hi](https://daveodea.com/contact/)!
 
